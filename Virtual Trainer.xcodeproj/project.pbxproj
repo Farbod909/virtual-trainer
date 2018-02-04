@@ -12,8 +12,12 @@
 		8EAE9B9220265218004AF0D8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EAE9B9020265218004AF0D8 /* Main.storyboard */; };
 		8EAE9B9420265218004AF0D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8EAE9B9320265218004AF0D8 /* Assets.xcassets */; };
 		8EAE9B9720265218004AF0D8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EAE9B9520265218004AF0D8 /* LaunchScreen.storyboard */; };
+<<<<<<< HEAD
 		8EAE9B9F2026C5EA004AF0D8 /* CardioPickerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EAE9B9E2026C5EA004AF0D8 /* CardioPickerVC.swift */; };
 		8EAE9BA12026C65A004AF0D8 /* WeightsPickerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EAE9BA02026C65A004AF0D8 /* WeightsPickerVC.swift */; };
+=======
+		94613BB320266C12002DDCA8 /* FitnessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94613BB220266C12002DDCA8 /* FitnessViewController.swift */; };
+>>>>>>> 8041a5a981ee0b18f444f1f45a2aa0d94de0a347
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,8 +28,12 @@
 		8EAE9B9320265218004AF0D8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8EAE9B9620265218004AF0D8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8EAE9B9820265218004AF0D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		8EAE9B9E2026C5EA004AF0D8 /* CardioPickerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardioPickerVC.swift; sourceTree = "<group>"; };
 		8EAE9BA02026C65A004AF0D8 /* WeightsPickerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeightsPickerVC.swift; sourceTree = "<group>"; };
+=======
+		94613BB220266C12002DDCA8 /* FitnessViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FitnessViewController.swift; sourceTree = "<group>"; };
+>>>>>>> 8041a5a981ee0b18f444f1f45a2aa0d94de0a347
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +69,7 @@
 				8EAE9B8C20265218004AF0D8 /* AppDelegate.swift */,
 				8EAE9B8E20265218004AF0D8 /* ViewController.swift */,
 				8EAE9B9020265218004AF0D8 /* Main.storyboard */,
+				94613BB220266C12002DDCA8 /* FitnessViewController.swift */,
 				8EAE9B9320265218004AF0D8 /* Assets.xcassets */,
 				8EAE9B9520265218004AF0D8 /* LaunchScreen.storyboard */,
 				8EAE9B9820265218004AF0D8 /* Info.plist */,
@@ -143,8 +152,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				8EAE9B8F20265218004AF0D8 /* ViewController.swift in Sources */,
+<<<<<<< HEAD
 				8EAE9B9F2026C5EA004AF0D8 /* CardioPickerVC.swift in Sources */,
 				8EAE9BA12026C65A004AF0D8 /* WeightsPickerVC.swift in Sources */,
+=======
+				94613BB320266C12002DDCA8 /* FitnessViewController.swift in Sources */,
+>>>>>>> 8041a5a981ee0b18f444f1f45a2aa0d94de0a347
 				8EAE9B8D20265218004AF0D8 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
